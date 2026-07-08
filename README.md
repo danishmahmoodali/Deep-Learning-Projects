@@ -6,11 +6,11 @@ A collection of foundational machine learning notebooks from my B.Sc. and early 
 
 ```
 ├── Classification/
-│   └── Classification_Models.ipynb   # 5 classic classifiers compared with cross-validation
+│   └── Classification_on_Games_Dataset.ipynb   # 5 classic classifiers compared with cross-validation
 ├── Clustering/
-│   └── Clustering_Methods.ipynb      # K-Means & agglomerative clustering with silhouette analysis
+│   └── Clustering_Customer_dataset.ipynb      # K-Means & agglomerative clustering with silhouette analysis
 └── Neural Networks/
-    └── ...                           # Neural network fundamentals
+    └── Artificial_Neural_Network.ipynb                           # Neural network fundamentals
 ```
 
 <!-- TODO(Danish): adjust the Neural Networks line to name the actual notebooks in that folder -->
